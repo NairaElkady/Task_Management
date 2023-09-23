@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_unnecessary_containers
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:gap/gap.dart';
@@ -24,10 +26,12 @@ class CardTask extends ConsumerWidget {
               categoryColor = Colors.green;
               break;
 
+            // ignore: unreachable_switch_case
             case 'Learning':
               categoryColor = Colors.blue.shade700;
               break;
 
+            // ignore: unreachable_switch_case
             case 'Learning':
               categoryColor = Colors.amber.shade700;
               break;

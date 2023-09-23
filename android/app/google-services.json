@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768838600640",
+    "project_id": "task-management-firestore",
+    "storage_bucket": "task-management-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768838600640:android:87b02e2a327c9374306a25",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagemet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768838600640-0p96dgvki7is1mir72dmne0r574nutsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhMAVxj02ZYcpKp9R-O2IrborWMOyckuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768838600640-0p96dgvki7is1mir72dmne0r574nutsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
